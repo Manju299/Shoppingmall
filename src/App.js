@@ -6,6 +6,7 @@ import Navbar from './pages/Navbar';
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 import About from './pages/About';
+
 import Update from './pages/Update';
 import Project from './pages/Project';
 
